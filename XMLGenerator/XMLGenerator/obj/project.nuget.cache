@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UjdPoobDdjvxN28Fq9n/o0ZSj0VtnlRrh+mutZ38Kc4Da5PHAHKq+Xlq0lnKH5WXMpGWxoompqPFk09DL1Pl0A==",
+  "success": true,
+  "projectFilePath": "D:\\cource_c\\XMLGenerator\\XMLGenerator\\XMLGenerator\\XMLGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\koldun\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
