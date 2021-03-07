@@ -1,0 +1,13 @@
+D:\cource_c\XMLGenerator\XMLGenerator\XMLGenerator\bin\Release\netcoreapp3.1\XMLGenerator.exe
+D:\cource_c\XMLGenerator\XMLGenerator\XMLGenerator\bin\Release\netcoreapp3.1\XMLGenerator.deps.json
+D:\cource_c\XMLGenerator\XMLGenerator\XMLGenerator\bin\Release\netcoreapp3.1\XMLGenerator.runtimeconfig.json
+D:\cource_c\XMLGenerator\XMLGenerator\XMLGenerator\bin\Release\netcoreapp3.1\XMLGenerator.runtimeconfig.dev.json
+D:\cource_c\XMLGenerator\XMLGenerator\XMLGenerator\bin\Release\netcoreapp3.1\XMLGenerator.dll
+D:\cource_c\XMLGenerator\XMLGenerator\XMLGenerator\bin\Release\netcoreapp3.1\XMLGenerator.pdb
+D:\cource_c\XMLGenerator\XMLGenerator\XMLGenerator\obj\Release\netcoreapp3.1\XMLGenerator.csprojAssemblyReference.cache
+D:\cource_c\XMLGenerator\XMLGenerator\XMLGenerator\obj\Release\netcoreapp3.1\XMLGenerator.AssemblyInfoInputs.cache
+D:\cource_c\XMLGenerator\XMLGenerator\XMLGenerator\obj\Release\netcoreapp3.1\XMLGenerator.AssemblyInfo.cs
+D:\cource_c\XMLGenerator\XMLGenerator\XMLGenerator\obj\Release\netcoreapp3.1\XMLGenerator.csproj.CoreCompileInputs.cache
+D:\cource_c\XMLGenerator\XMLGenerator\XMLGenerator\obj\Release\netcoreapp3.1\XMLGenerator.dll
+D:\cource_c\XMLGenerator\XMLGenerator\XMLGenerator\obj\Release\netcoreapp3.1\XMLGenerator.pdb
+D:\cource_c\XMLGenerator\XMLGenerator\XMLGenerator\obj\Release\netcoreapp3.1\XMLGenerator.genruntimeconfig.cache
