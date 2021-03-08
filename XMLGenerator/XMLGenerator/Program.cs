@@ -26,6 +26,7 @@ namespace XMLGenerator
             int action = 4;
             //int action = Console.ReadLine();
             await General_cycle(path, action);
+            var awaite = Console.ReadLine();
         }
 
         private static async Task General_cycle(string path, int action)
